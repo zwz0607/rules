@@ -23,7 +23,7 @@ Surge, Loon and Shadowrocket use almost the same format, so the three files carr
 
 ## Use
 
-订阅链接在各 App 的文件夹里：[rule/Surge](rule/Surge)、[rule/Loon](rule/Loon)、[rule/Shadowrocket](rule/Shadowrocket)，每个文件夹里有 README。
+订阅链接在各 App 文件夹下的服务文件夹里，例如 [rule/Surge/Whatsapp](rule/Surge/Whatsapp)：点进服务文件夹，看 README 复制链接。
 
 ## Daily sync
 
