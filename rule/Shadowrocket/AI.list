@@ -1,0 +1,99 @@
+# NAME: AI
+# AUTHOR: Muse for Wen Ze
+# REPO: https://github.com/zwz0607/surge-rules
+# UPDATED: 2026-11-25
+# NOTE: Only AI services, no broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
+# NOTE: URL-REGEX removed in this version, Gemini main domains are still covered.
+# USAGE (Shadowrocket): RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/surge-rules@main/rule/Shadowrocket/AI.list,PROXY
+
+# OpenAI / ChatGPT / Sora / Codex
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-KEYWORD,openai
+
+# Anthropic / Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN-SUFFIX,modelcontextprotocol.com
+DOMAIN-SUFFIX,modelcontextprotocol.net
+DOMAIN-SUFFIX,modelcontextprotocol.org
+DOMAIN,cdn.usefathom.com
+
+# Google / Gemini / AI Studio / DeepMind / NotebookLM
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,ai.google.dev
+DOMAIN,jules.google.com
+DOMAIN,antigravity.google
+DOMAIN,aicode.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+
+# xAI / Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# Microsoft Copilot (only Copilot itself, not whole bing.com)
+DOMAIN,copilot.microsoft.com
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+
+# Dify / OpenArt / Jasper / Clipdrop
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,clipdrop.co
+
+# GitHub Copilot / JetBrains AI / Windsurf / Codeium / Zed
+DOMAIN,api.github.com
+DOMAIN,api.jetbrains.ai
+DOMAIN,server.codeium.com
+DOMAIN,inference.codeium.com
+DOMAIN,server.self-serve.windsurf.com
+DOMAIN,cloud.zed.dev
+
+# Groq
+DOMAIN-SUFFIX,groq.com
