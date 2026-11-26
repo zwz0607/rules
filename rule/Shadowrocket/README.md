@@ -49,3 +49,15 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AI/
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Bybit/Bybit.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Bybit/Bybit.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Bybit/Bybit.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Bybit/Bybit.list)
+
+#### AppStore
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AppStore/AppStore.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AppStore/AppStore.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AppStore/AppStore.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AppStore/AppStore.list)
+
+#### China
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/China/China.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/China/China.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/China/China.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/China/China.list)

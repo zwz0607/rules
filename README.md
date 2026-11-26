@@ -14,10 +14,12 @@ Personal rules, maintained by Muse for Wen Ze. Synced daily from upstream, so th
 | Netflix | `rule/Surge/Netflix/Netflix.list` | `rule/Loon/Netflix/Netflix.list` | `rule/Shadowrocket/Netflix/Netflix.list` |
 | AI | `rule/Surge/AI/AI.list` | `rule/Loon/AI/AI.list` | `rule/Shadowrocket/AI/AI.list` |
 | Bybit | `rule/Surge/Bybit/Bybit.list` | `rule/Loon/Bybit/Bybit.list` | `rule/Shadowrocket/Bybit/Bybit.list` |
+| AppStore | `rule/Surge/AppStore/AppStore.list` | `rule/Loon/AppStore/AppStore.list` | `rule/Shadowrocket/AppStore/AppStore.list` |
+| China | `rule/Surge/China/China.list` | `rule/Loon/China/China.list` | `rule/Shadowrocket/China/China.list` |
 
 ## Sources
 
-- Telegram, WhatsApp, Instagram, TikTok, YouTube, Netflix: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (mirrored as-is).
+- Telegram, WhatsApp, Instagram, TikTok, YouTube, Netflix, AppStore, China: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (mirrored as-is).
 - AI: [Sukka's ai.conf](https://ruleset.skk.moe/List/non_ip/ai.conf) plus curated extras in `scripts/ai-extra.list`. Only AI services. No broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
 - Bybit: [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) (`data/bybit`), synced daily, plus curated extras in `scripts/bybit-extra.list` (RuleGo). blackmatrix7 has no Bybit list.
 
@@ -29,7 +31,7 @@ Surge, Loon and Shadowrocket use almost the same format, so the three files carr
 
 ## Daily sync
 
-`.github/workflows/sync-rules.yml` runs every day at 09:00 Asia/Shanghai (01:00 UTC). It pulls the latest lists from blackmatrix7 and Sukka, rebuilds the AI lists (Sukka + `scripts/ai-extra.list`), and commits + pushes only when something changed. No hand-editing needed.
+`.github/workflows/sync-rules.yml` runs every day at 09:00 Asia/Shanghai (01:00 UTC). It pulls the latest lists from blackmatrix7 and Sukka (including AppStore and China), rebuilds the AI lists (Sukka + `scripts/ai-extra.list`), and commits + pushes only when something changed. No hand-editing needed.
 
 To add your own domain or a new service, edit the list (or `scripts/ai-extra.list` for AI) and push; the next sync keeps your edit unless upstream also changed that file. To force a sync now, run the workflow manually from the repo's Actions tab.
 
