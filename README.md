@@ -6,13 +6,13 @@ Personal rules, maintained by Muse for Wen Ze. Synced daily from upstream, so th
 
 | Service | Surge | Loon | Shadowrocket |
 |---|---|---|---|
-| AI | `rule/Surge/AI.list` | `rule/Loon/AI.list` | `rule/Shadowrocket/AI.list` |
 | Telegram | `rule/Surge/Telegram.list` | `rule/Loon/Telegram.list` | `rule/Shadowrocket/Telegram.list` |
-| WhatsApp | `rule/Surge/Whatsapp.list` | `rule/Loon/Whatsapp.list` | `rule/Shadowrocket/Whatsapp.list` |
+| Whatsapp | `rule/Surge/Whatsapp.list` | `rule/Loon/Whatsapp.list` | `rule/Shadowrocket/Whatsapp.list` |
 | Instagram | `rule/Surge/Instagram.list` | `rule/Loon/Instagram.list` | `rule/Shadowrocket/Instagram.list` |
 | TikTok | `rule/Surge/TikTok.list` | `rule/Loon/TikTok.list` | `rule/Shadowrocket/TikTok.list` |
 | YouTube | `rule/Surge/YouTube.list` | `rule/Loon/YouTube.list` | `rule/Shadowrocket/YouTube.list` |
 | Netflix | `rule/Surge/Netflix.list` | `rule/Loon/Netflix.list` | `rule/Shadowrocket/Netflix.list` |
+| AI | `rule/Surge/AI.list` | `rule/Loon/AI.list` | `rule/Shadowrocket/AI.list` |
 
 ## Sources
 
@@ -23,57 +23,139 @@ Surge, Loon and Shadowrocket use almost the same format, so the three files carr
 
 ## Use
 
-Replace the policy name with your own policy group name.
+直接复制下面链接，粘贴进 App 的规则集订阅就行，不用写 RULE-SET。策略按括号里的选，更新间隔 86400。
 
-### Surge, 规则集订阅（推荐）
+### Surge
 
-在 Surge 里点「编辑规则集」，直接粘贴下面每个 URL，策略按括号里的选：
+#### Telegram（香港）
 
-```
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list    （香港）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list    （香港）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list   （香港）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list      （日本）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list     （香港）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list     （香港）
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list          （美国）
-```
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list)
 
-或者写进配置文件 `[Rule]`：
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram.list)
 
-```
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list,香港
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list,香港
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list,香港
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list,日本
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list,香港
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list,香港
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list,美国
-```
+#### Whatsapp（香港）
 
-### Loon, add as Remote Rule
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list)
 
-```
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix.list
-https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list
-```
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp.list)
 
-### Shadowrocket, in `[Rule]`
+#### Instagram（香港）
 
-```
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Telegram.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Whatsapp.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Instagram.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/TikTok.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/YouTube.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Netflix.list,PROXY
-RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI.list,PROXY
-```
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram.list)
+
+#### TikTok（日本）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok.list)
+
+#### YouTube（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube.list)
+
+#### Netflix（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix.list)
+
+#### AI（美国）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI.list)
+
+### Loon
+
+#### Telegram（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram.list)
+
+#### Whatsapp（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp.list)
+
+#### Instagram（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram.list)
+
+#### TikTok（日本）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok.list)
+
+#### YouTube（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube.list)
+
+#### Netflix（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix.list)
+
+#### AI（美国）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI.list)
+
+### Shadowrocket
+
+#### Telegram（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Telegram.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Telegram.list)
+
+#### Whatsapp（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Whatsapp.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Whatsapp.list)
+
+#### Instagram（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Instagram.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Instagram.list)
+
+#### TikTok（日本）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/TikTok.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/TikTok.list)
+
+#### YouTube（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/YouTube.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/YouTube.list)
+
+#### Netflix（香港）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Netflix.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Netflix.list)
+
+#### AI（美国）
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AI.list)
 
 ## Daily sync
 
