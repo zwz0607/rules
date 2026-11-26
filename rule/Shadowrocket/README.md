@@ -55,3 +55,45 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Byb
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AppStore/AppStore.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AppStore/AppStore.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AppStore/AppStore.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AppStore/AppStore.list)
+
+#### Google
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Google/Google.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Google/Google.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Google/Google.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Google/Google.list)
+
+#### Facebook
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Facebook/Facebook.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Facebook/Facebook.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Facebook/Facebook.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Facebook/Facebook.list)
+
+#### Twitter
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Twitter/Twitter.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Twitter/Twitter.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Twitter/Twitter.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Twitter/Twitter.list)
+
+#### GitHub
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/GitHub/GitHub.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/GitHub/GitHub.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/GitHub/GitHub.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/GitHub/GitHub.list)
+
+#### Spotify
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Spotify/Spotify.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Spotify/Spotify.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Spotify/Spotify.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Spotify/Spotify.list)
+
+#### Disney
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Disney/Disney.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Disney/Disney.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Disney/Disney.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Disney/Disney.list)
+
+#### Steam
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Steam/Steam.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Steam/Steam.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Steam/Steam.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Steam/Steam.list)

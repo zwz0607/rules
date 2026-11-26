@@ -55,3 +55,45 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Bybit/Bybi
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AppStore/AppStore.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AppStore/AppStore.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AppStore/AppStore.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AppStore/AppStore.list)
+
+#### Google
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Google/Google.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Google/Google.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Google/Google.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Google/Google.list)
+
+#### Facebook
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Facebook/Facebook.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Facebook/Facebook.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Facebook/Facebook.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Facebook/Facebook.list)
+
+#### Twitter
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Twitter/Twitter.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Twitter/Twitter.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Twitter/Twitter.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Twitter/Twitter.list)
+
+#### GitHub
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/GitHub/GitHub.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/GitHub/GitHub.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/GitHub/GitHub.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/GitHub/GitHub.list)
+
+#### Spotify
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Spotify/Spotify.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Spotify/Spotify.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Spotify/Spotify.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Spotify/Spotify.list)
+
+#### Disney
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Disney/Disney.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Disney/Disney.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Disney/Disney.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Disney/Disney.list)
+
+#### Steam
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Steam/Steam.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Steam/Steam.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Steam/Steam.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Steam/Steam.list)

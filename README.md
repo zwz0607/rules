@@ -14,11 +14,18 @@ Personal rules, maintained by Muse for Wen Ze. Synced daily from upstream, so th
 | Netflix | `rule/Surge/Netflix/Netflix.list` | `rule/Loon/Netflix/Netflix.list` | `rule/Shadowrocket/Netflix/Netflix.list` |
 | AI | `rule/Surge/AI/AI.list` | `rule/Loon/AI/AI.list` | `rule/Shadowrocket/AI/AI.list` |
 | Bybit | `rule/Surge/Bybit/Bybit.list` | `rule/Loon/Bybit/Bybit.list` | `rule/Shadowrocket/Bybit/Bybit.list` |
+| Google | `rule/Surge/Google/Google.list` | `rule/Loon/Google/Google.list` | `rule/Shadowrocket/Google/Google.list` |
+| Facebook | `rule/Surge/Facebook/Facebook.list` | `rule/Loon/Facebook/Facebook.list` | `rule/Shadowrocket/Facebook/Facebook.list` |
+| Twitter | `rule/Surge/Twitter/Twitter.list` | `rule/Loon/Twitter/Twitter.list` | `rule/Shadowrocket/Twitter/Twitter.list` |
+| GitHub | `rule/Surge/GitHub/GitHub.list` | `rule/Loon/GitHub/GitHub.list` | `rule/Shadowrocket/GitHub/GitHub.list` |
+| Spotify | `rule/Surge/Spotify/Spotify.list` | `rule/Loon/Spotify/Spotify.list` | `rule/Shadowrocket/Spotify/Spotify.list` |
+| Disney | `rule/Surge/Disney/Disney.list` | `rule/Loon/Disney/Disney.list` | `rule/Shadowrocket/Disney/Disney.list` |
+| Steam | `rule/Surge/Steam/Steam.list` | `rule/Loon/Steam/Steam.list` | `rule/Shadowrocket/Steam/Steam.list` |
 | AppStore | `rule/Surge/AppStore/AppStore.list` | `rule/Loon/AppStore/AppStore.list` | `rule/Shadowrocket/AppStore/AppStore.list` |
 
 ## Sources
 
-- Telegram, WhatsApp, Instagram, TikTok, YouTube, Netflix: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (mirrored as-is).
+- Telegram, WhatsApp, Instagram, TikTok, YouTube, Netflix, Google, Facebook, Twitter, GitHub, Spotify, Disney, Steam: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (mirrored as-is).
 - AppStore: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (upstream, 2 domains) plus curated extras in `scripts/appstore-extra.list` (download/CDN domains: mzstatic.com, iosapps/osxapps.itunes.apple.com, cdn-apple.com, etc.).
 - AI: [Sukka's ai.conf](https://ruleset.skk.moe/List/non_ip/ai.conf) plus curated extras in `scripts/ai-extra.list`. Only AI services. No broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
 - Bybit: [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) (`data/bybit`), synced daily, plus curated extras in `scripts/bybit-extra.list` (RuleGo). blackmatrix7 has no Bybit list.
