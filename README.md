@@ -25,7 +25,21 @@ Surge, Loon and Shadowrocket use almost the same format, so the three files carr
 
 Replace the policy name with your own policy group name.
 
-### Surge, in `[Rule]`
+### Surge, 规则集订阅（推荐）
+
+在 Surge 里点「编辑规则集」，直接粘贴下面每个 URL，策略按括号里的选：
+
+```
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list    （香港）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list    （香港）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list   （香港）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list      （日本）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list     （香港）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list     （香港）
+https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list          （美国）
+```
+
+或者写进配置文件 `[Rule]`：
 
 ```
 RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list,香港
