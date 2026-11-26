@@ -58,6 +58,37 @@ jobs:
           build_ai Loon "Remote Rule, https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list"
           build_ai Shadowrocket "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI/AI.list,PROXY"
 
+      - name: Sync Bybit list from v2fly + curated extras
+        run: |
+          set -euo pipefail
+          curl -fsSL "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bybit" -o /tmp/bybit.txt
+          grep -E '^(full|domain):' /tmp/bybit.txt | sed -E 's/^(full|domain):/DOMAIN,/' | sort > /tmp/bybit-domains.txt
+          grep -v -E '^(full|domain):' /tmp/bybit.txt | grep -v '^$' | grep -v '^#' | sed 's/^/DOMAIN-SUFFIX,/' | sort > /tmp/bybit-suffixes.txt
+          build_bybit() {
+            local app="$1"
+            local out="rule/$app/Bybit/Bybit.list"
+            local nd ns
+            nd=$(wc -l < /tmp/bybit-domains.txt)
+            ns=$(wc -l < /tmp/bybit-suffixes.txt)
+            ns=$((ns + $(grep -c . scripts/bybit-extra.list)))
+            {
+              echo "# NAME: Bybit"
+              echo "# AUTHOR: v2fly/domain-list-community, ConnersHua/RuleGo"
+              echo "# REPO: https://github.com/zwz0607/rules"
+              echo "# UPDATED: $(date -u +%Y-%m-%d)"
+              echo "# SOURCE: https://github.com/v2fly/domain-list-community (data/bybit) + scripts/bybit-extra.list (RuleGo)"
+              echo "# DOMAIN: $nd"
+              echo "# DOMAIN-SUFFIX: $ns"
+              echo "# TOTAL: $((nd + ns))"
+              cat /tmp/bybit-domains.txt
+              cat /tmp/bybit-suffixes.txt
+              echo ""
+              echo "# Curated extras (not in v2fly)"
+              cat scripts/bybit-extra.list
+            } > "$out"
+          }
+          for app in Surge Loon Shadowrocket; do build_bybit "$app"; done
+
       - name: Remove legacy flat files
         run: |
           # Flat rule/<App>/<Service>.list files from before the 2026-11-26 restructure.
