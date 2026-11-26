@@ -19,7 +19,7 @@ jobs:
           set -euo pipefail
           for app in Surge Loon Shadowrocket; do
             for svc in Telegram Whatsapp Instagram TikTok YouTube Netflix; do
-              curl -fsSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/$app/$svc/$svc.list" -o "rule/$app/$svc.list"
+              curl -fsSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/$app/$svc/$svc.list" -o "rule/$app/$svc/$svc.list"
             done
           done
 
@@ -31,7 +31,7 @@ jobs:
           build_ai() {
             local app="$1"
             local usage="$2"
-            local out="rule/$app/AI.list"
+            local out="rule/$app/AI/AI.list"
             {
               echo "# NAME: AI"
               echo "# AUTHOR: Muse for Wen Ze"
@@ -54,9 +54,15 @@ jobs:
               cat scripts/ai-extra.list
             } > "$out"
           }
-          build_ai Surge "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list,美国"
-          build_ai Loon "Remote Rule, https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list"
-          build_ai Shadowrocket "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI.list,PROXY"
+          build_ai Surge "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI/AI.list,PROXY"
+          build_ai Loon "Remote Rule, https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list"
+          build_ai Shadowrocket "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI/AI.list,PROXY"
+
+      - name: Remove legacy flat files
+        run: |
+          # Flat rule/<App>/<Service>.list files from before the 2026-11-26 restructure.
+          # Lists now live in rule/<App>/<Service>/<Service>.list. No-op once gone.
+          rm -f rule/Surge/*.list rule/Loon/*.list rule/Shadowrocket/*.list
 
       - name: Commit and push if changed
         run: |
