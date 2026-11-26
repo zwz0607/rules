@@ -85,15 +85,3 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Git
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Spotify/Spotify.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Spotify/Spotify.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Spotify/Spotify.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Spotify/Spotify.list)
-
-#### Disney
-
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Disney/Disney.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Disney/Disney.list)
-
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Disney/Disney.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Disney/Disney.list)
-
-#### Steam
-
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Steam/Steam.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Steam/Steam.list)
-
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Steam/Steam.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Steam/Steam.list)

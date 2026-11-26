@@ -85,15 +85,3 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/GitHub/GitH
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Spotify/Spotify.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Spotify/Spotify.list)
-
-#### Disney
-
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Disney/Disney.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Disney/Disney.list)
-
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Disney/Disney.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Disney/Disney.list)
-
-#### Steam
-
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Steam/Steam.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Steam/Steam.list)
-
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Steam/Steam.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Steam/Steam.list)
