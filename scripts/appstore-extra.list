@@ -1,0 +1,15 @@
+# Curated AppStore extras (not in blackmatrix7's AppStore.list).
+# The daily sync appends these to the upstream list when building rule/*/AppStore/AppStore.list.
+# Upstream has only apps.apple.com + itunes.apple.com; App Store downloads/icons
+# go via mzstatic.com, iosapps/osxapps.itunes.apple.com and Apple CDNs.
+# Narrow Apple-only domains. Never add apple.com (too broad: iCloud, Music, etc.).
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,secure-appldnld.apple.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com.cn

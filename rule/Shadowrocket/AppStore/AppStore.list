@@ -1,8 +1,22 @@
 # NAME: AppStore
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:15:10
-# DOMAIN: 2
-# TOTAL: 2
+# AUTHOR: blackmatrix7 + Muse for Wen Ze
+# REPO: https://github.com/zwz0607/rules
+# UPDATED: 2026-11-27
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script (rule/AppStore/AppStore.list) + scripts/appstore-extra.list
+# NOTE: Upstream has only apps.apple.com + itunes.apple.com. Extras add the download/CDN domains (mzstatic.com, iosapps/osxapps.itunes.apple.com, cdn-apple.com, etc.) - without them App Store downloads do not match this list.
+# USAGE (Shadowrocket): RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AppStore/AppStore.list,DIRECT
+
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
+
+# Curated extras (not in blackmatrix7)
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,secure-appldnld.apple.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com.cn
