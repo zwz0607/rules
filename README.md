@@ -13,11 +13,13 @@ Personal rules, maintained by Muse for Wen Ze. Synced daily from upstream, so th
 | YouTube | `rule/Surge/YouTube/YouTube.list` | `rule/Loon/YouTube/YouTube.list` | `rule/Shadowrocket/YouTube/YouTube.list` |
 | Netflix | `rule/Surge/Netflix/Netflix.list` | `rule/Loon/Netflix/Netflix.list` | `rule/Shadowrocket/Netflix/Netflix.list` |
 | AI | `rule/Surge/AI/AI.list` | `rule/Loon/AI/AI.list` | `rule/Shadowrocket/AI/AI.list` |
+| Bybit | `rule/Surge/Bybit/Bybit.list` | `rule/Loon/Bybit/Bybit.list` | `rule/Shadowrocket/Bybit/Bybit.list` |
 
 ## Sources
 
 - Telegram, WhatsApp, Instagram, TikTok, YouTube, Netflix: [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) (mirrored as-is).
 - AI: [Sukka's ai.conf](https://ruleset.skk.moe/List/non_ip/ai.conf) plus curated extras in `scripts/ai-extra.list`. Only AI services. No broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
+- Bybit: curated from [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) (`data/bybit`) and [ConnersHua/RuleGo](https://github.com/ConnersHua/RuleGo) (Proxy.list, Bybit section). Hand-maintained, not in the daily sync (blackmatrix7 has no Bybit list).
 
 Surge, Loon and Shadowrocket use almost the same format, so the three files carry the same domains. The only difference: Surge keeps the Gemini `URL-REGEX` redirect rule, Loon / Shadowrocket drop it (not reliable in their remote lists). Gemini itself is still covered.
 

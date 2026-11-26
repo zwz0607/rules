@@ -43,3 +43,9 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Net
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI/AI.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AI/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/AI/AI.list)
+
+#### Bybit
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Bybit/Bybit.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/Bybit/Bybit.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Bybit/Bybit.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Shadowrocket/Bybit/Bybit.list)

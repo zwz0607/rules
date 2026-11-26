@@ -1,0 +1,25 @@
+# NAME: Bybit
+# AUTHOR: v2fly/domain-list-community, ConnersHua/RuleGo
+# REPO: https://github.com/zwz0607/rules
+# UPDATED: 2026-11-27
+# SOURCE: https://github.com/v2fly/domain-list-community (data/bybit) + https://github.com/ConnersHua/RuleGo (Proxy.list, Bybit section). Hand-maintained, not in daily sync (no blackmatrix7 upstream).
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 15
+# TOTAL: 17
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com

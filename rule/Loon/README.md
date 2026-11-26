@@ -43,3 +43,9 @@ Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix/Net
 CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list)
+
+#### Bybit
+
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list)
+
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Bybit/Bybit.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Bybit/Bybit.list)
