@@ -1,4 +1,4 @@
-# surge-rules
+# rules
 
 Personal AI rules, maintained by Muse for Wen Ze.
 
