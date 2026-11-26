@@ -1,0 +1,13 @@
+# Curated AI extras (not in Sukka's ai.conf).
+# The daily sync appends these to Sukka's list when building rule/*/AI.list.
+# Only AI services. No broad shared domains.
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,modelcontextprotocol.com
+DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN-SUFFIX,modelcontextprotocol.net
+DOMAIN-SUFFIX,modelcontextprotocol.org
