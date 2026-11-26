@@ -4,84 +4,84 @@
 
 #### Telegram
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram/Telegram.list)
 
 #### Whatsapp
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp/Whatsapp.list)
 
 #### Instagram
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram/Instagram.list)
 
 #### TikTok
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok/TikTok.list)
 
 #### YouTube
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube/YouTube.list)
 
 #### Netflix
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix/Netflix.list)
 
 #### AI
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list)
 
 #### Bybit
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Bybit/Bybit.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Bybit/Bybit.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Bybit/Bybit.list)
 
 #### AppStore
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AppStore/AppStore.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AppStore/AppStore.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AppStore/AppStore.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AppStore/AppStore.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AppStore/AppStore.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AppStore/AppStore.list)
 
 #### Google
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Google/Google.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Google/Google.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Google/Google.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Google/Google.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Google/Google.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Google/Google.list)
 
 #### Facebook
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Facebook/Facebook.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Facebook/Facebook.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Facebook/Facebook.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Facebook/Facebook.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Facebook/Facebook.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Facebook/Facebook.list)
 
 #### Twitter
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Twitter/Twitter.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Twitter/Twitter.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Twitter/Twitter.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Twitter/Twitter.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Twitter/Twitter.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Twitter/Twitter.list)
 
 #### GitHub
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/GitHub/GitHub.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/GitHub/GitHub.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/GitHub/GitHub.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/GitHub/GitHub.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/GitHub/GitHub.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/GitHub/GitHub.list)
 
 #### Spotify
 
-Fastly（推荐）: [https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list](https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Spotify/Spotify.list)
 
 Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Spotify/Spotify.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Spotify/Spotify.list)

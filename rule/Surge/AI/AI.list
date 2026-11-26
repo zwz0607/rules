@@ -4,7 +4,7 @@
 # UPDATED: 2026-11-26
 # SOURCE: https://ruleset.skk.moe/List/non_ip/ai.conf (Sukka) + scripts/ai-extra.list
 # NOTE: Only AI services, no broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
-# USAGE (Surge): RULE-SET,https://fastly.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI/AI.list,PROXY
+# USAGE (Surge): RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI/AI.list,PROXY
 
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,g.ai
