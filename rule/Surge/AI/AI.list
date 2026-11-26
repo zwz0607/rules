@@ -82,3 +82,39 @@ DOMAIN-SUFFIX,modelcontextprotocol.com
 DOMAIN-SUFFIX,modelcontextprotocol.io
 DOMAIN-SUFFIX,modelcontextprotocol.net
 DOMAIN-SUFFIX,modelcontextprotocol.org
+
+# Chinese AI services (added 2026-11-27; not covered by Sukka or funnysurge).
+# Narrow hosts/suffixes only. Never add aliyun.com, baidu.com, tencent.com (too broad).
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,kimi.com
+DOMAIN,kimi.moonshot.cn
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN,tongyi.aliyun.com
+DOMAIN,dashscope.aliyuncs.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN,doubao.volces.com
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN,yiyan.baidu.com
+DOMAIN,yuanbao.tencent.com
+DOMAIN,xinghuo.xfyun.cn
+DOMAIN-SUFFIX,hailuoai.com
+
+# Other mainstream AI (added 2026-11-27).
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,together.ai
+DOMAIN,api.together.xyz
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,pi.ai
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,bedrock.amazonaws.com
