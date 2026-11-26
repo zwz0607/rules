@@ -1,0 +1,71 @@
+name: Sync rules
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync service lists from blackmatrix7
+        run: |
+          set -euo pipefail
+          for app in Surge Loon Shadowrocket; do
+            for svc in Telegram Whatsapp Instagram TikTok YouTube Netflix; do
+              curl -fsSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/$app/$svc/$svc.list" -o "rule/$app/$svc.list"
+            done
+          done
+
+      - name: Sync AI list from Sukka + curated extras
+        run: |
+          set -euo pipefail
+          curl -fsSL "https://ruleset.skk.moe/List/non_ip/ai.conf" -o /tmp/ai.conf
+          grep -v '^#' /tmp/ai.conf | grep -v '^$' > /tmp/ai-rules.txt
+          build_ai() {
+            local app="$1"
+            local usage="$2"
+            local out="rule/$app/AI.list"
+            {
+              echo "# NAME: AI"
+              echo "# AUTHOR: Muse for Wen Ze"
+              echo "# REPO: https://github.com/zwz0607/rules"
+              echo "# UPDATED: $(date -u +%Y-%m-%d)"
+              echo "# SOURCE: https://ruleset.skk.moe/List/non_ip/ai.conf (Sukka) + scripts/ai-extra.list"
+              echo "# NOTE: Only AI services, no broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic."
+              echo "# USAGE ($app): $usage"
+              if [ "$app" != "Surge" ]; then
+                echo "# NOTE: URL-REGEX removed in this version, Gemini main domains are still covered."
+              fi
+              echo ""
+              if [ "$app" = "Surge" ]; then
+                cat /tmp/ai-rules.txt
+              else
+                grep -v '^URL-REGEX,' /tmp/ai-rules.txt
+              fi
+              echo ""
+              echo "# Curated extras (not in Sukka)"
+              cat scripts/ai-extra.list
+            } > "$out"
+          }
+          build_ai Surge "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list,美国"
+          build_ai Loon "Remote Rule, https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list"
+          build_ai Shadowrocket "RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI.list,PROXY"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A rule/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: sync rules $(date -u +%Y-%m-%d)"
+            git push
+          fi
