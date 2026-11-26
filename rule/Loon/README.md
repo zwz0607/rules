@@ -4,42 +4,42 @@
 
 #### Telegram
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Telegram/Telegram.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Telegram/Telegram.list)
 
 #### Whatsapp
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Whatsapp/Whatsapp.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Whatsapp/Whatsapp.list)
 
 #### Instagram
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Instagram/Instagram.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Instagram/Instagram.list)
 
 #### TikTok
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/TikTok/TikTok.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/TikTok/TikTok.list)
 
 #### YouTube
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/YouTube/YouTube.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/YouTube/YouTube.list)
 
 #### Netflix
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/Netflix/Netflix.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/Netflix/Netflix.list)
 
 #### AI
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Loon/AI/AI.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Loon/AI/AI.list)

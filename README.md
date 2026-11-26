@@ -6,13 +6,13 @@ Personal rules, maintained by Muse for Wen Ze. Synced daily from upstream, so th
 
 | Service | Surge | Loon | Shadowrocket |
 |---|---|---|---|
-| Telegram | `rule/Surge/Telegram.list` | `rule/Loon/Telegram.list` | `rule/Shadowrocket/Telegram.list` |
-| Whatsapp | `rule/Surge/Whatsapp.list` | `rule/Loon/Whatsapp.list` | `rule/Shadowrocket/Whatsapp.list` |
-| Instagram | `rule/Surge/Instagram.list` | `rule/Loon/Instagram.list` | `rule/Shadowrocket/Instagram.list` |
-| TikTok | `rule/Surge/TikTok.list` | `rule/Loon/TikTok.list` | `rule/Shadowrocket/TikTok.list` |
-| YouTube | `rule/Surge/YouTube.list` | `rule/Loon/YouTube.list` | `rule/Shadowrocket/YouTube.list` |
-| Netflix | `rule/Surge/Netflix.list` | `rule/Loon/Netflix.list` | `rule/Shadowrocket/Netflix.list` |
-| AI | `rule/Surge/AI.list` | `rule/Loon/AI.list` | `rule/Shadowrocket/AI.list` |
+| Telegram | `rule/Surge/Telegram/Telegram.list` | `rule/Loon/Telegram/Telegram.list` | `rule/Shadowrocket/Telegram/Telegram.list` |
+| Whatsapp | `rule/Surge/Whatsapp/Whatsapp.list` | `rule/Loon/Whatsapp/Whatsapp.list` | `rule/Shadowrocket/Whatsapp/Whatsapp.list` |
+| Instagram | `rule/Surge/Instagram/Instagram.list` | `rule/Loon/Instagram/Instagram.list` | `rule/Shadowrocket/Instagram/Instagram.list` |
+| TikTok | `rule/Surge/TikTok/TikTok.list` | `rule/Loon/TikTok/TikTok.list` | `rule/Shadowrocket/TikTok/TikTok.list` |
+| YouTube | `rule/Surge/YouTube/YouTube.list` | `rule/Loon/YouTube/YouTube.list` | `rule/Shadowrocket/YouTube/YouTube.list` |
+| Netflix | `rule/Surge/Netflix/Netflix.list` | `rule/Loon/Netflix/Netflix.list` | `rule/Shadowrocket/Netflix/Netflix.list` |
+| AI | `rule/Surge/AI/AI.list` | `rule/Loon/AI/AI.list` | `rule/Shadowrocket/AI/AI.list` |
 
 ## Sources
 

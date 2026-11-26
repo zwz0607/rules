@@ -4,42 +4,42 @@
 
 #### Telegram
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram/Telegram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Telegram/Telegram.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram/Telegram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Telegram/Telegram.list)
 
 #### Whatsapp
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp/Whatsapp.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Whatsapp/Whatsapp.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp/Whatsapp.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Whatsapp/Whatsapp.list)
 
 #### Instagram
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram/Instagram.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Instagram/Instagram.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram/Instagram.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Instagram/Instagram.list)
 
 #### TikTok
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok/TikTok.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/TikTok/TikTok.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok/TikTok.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/TikTok/TikTok.list)
 
 #### YouTube
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube/YouTube.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/YouTube/YouTube.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube/YouTube.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/YouTube/YouTube.list)
 
 #### Netflix
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix/Netflix.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/Netflix/Netflix.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix/Netflix.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/Netflix/Netflix.list)
 
 #### AI
 
-CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI.list)
+CDN（推荐）: [https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI/AI.list](https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Surge/AI/AI.list)
 
-Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI.list)
+Raw: [https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI/AI.list](https://raw.githubusercontent.com/zwz0607/rules/main/rule/Surge/AI/AI.list)
