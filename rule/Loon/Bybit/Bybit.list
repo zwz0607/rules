@@ -1,7 +1,7 @@
 # NAME: Bybit
 # AUTHOR: v2fly/domain-list-community, ConnersHua/RuleGo
 # REPO: https://github.com/zwz0607/rules
-# UPDATED: 2026-11-26
+# UPDATED: 2026-11-27
 # SOURCE: https://github.com/v2fly/domain-list-community (data/bybit) + scripts/bybit-extra.list (RuleGo)
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 15

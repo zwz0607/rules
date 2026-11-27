@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: Muse for Wen Ze
 # REPO: https://github.com/zwz0607/rules
-# UPDATED: 2026-11-26
+# UPDATED: 2026-11-27
 # SOURCE: https://ruleset.skk.moe/List/non_ip/ai.conf (Sukka) + scripts/ai-extra.list
 # NOTE: Only AI services, no broad shared domains (no bing.com, googleapis.com, gstatic.com, auth0.com, stripe.com, sentry.io). Those would hijack unrelated traffic.
 # USAGE (Shadowrocket): RULE-SET,https://cdn.jsdelivr.net/gh/zwz0607/rules@main/rule/Shadowrocket/AI/AI.list,PROXY
